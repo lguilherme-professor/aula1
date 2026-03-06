@@ -55,7 +55,14 @@ git branch staging //cria a branch staging(dev)
 
 git checkout staging // muda para a branch staging
 
-lalalalala
+//conceito de merge
+
+git chekout master //muda para a branch master
+
+git merge staging // manda as alteracoes da staging para a master
+
+git push
+
 
 
 
