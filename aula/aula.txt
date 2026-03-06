@@ -47,5 +47,17 @@ git reflog -> // verifica as versoes do arquivo
 $ git reset --hard numero da versao //volta para a versao que vc deseja
 
 
+//definir o conceito de branch
+
+git branch // mostra as branches
+
+git branch staging //cria a branch staging(dev)
+
+git checkout staging // muda para a branch staging
+
+lalalalala
+
+
+
 
  
