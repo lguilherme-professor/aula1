@@ -40,6 +40,11 @@ git commit -m "adicionei uma linha"
 git push
 
 
+=========================================
+
+git reflog -> // verifica as versoes do arquivo
+
+$ git reset --hard numero da versao //volta para a versao que vc deseja
 
 
 
