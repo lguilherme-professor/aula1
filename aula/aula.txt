@@ -10,3 +10,37 @@ git init -> enter
 git status -> //para checar se o repositorio está atualizado
 
 git add "nome do arquivo" -> enter //para incluir os arquivos no repositorio
+
+git add . -> adiciona varios arquivos
+
+//para enviar para o git hub
+git commit -m "commit inicial"
+
+git config --global user.email "seu e-mail"
+git config --global user.name "seu nome"
+
+git commit -m "commit inicial"
+
+git push -> //vai dar erro, tem q configurar para onde mandar os arquivos no git hub
+
+//criar o repositorio no github
+
+git push -> vai dar erro, precisa definir para qual branch vc deve enviar
+
+git push --set-upstream origin master
+
+//muda algo no codigo
+
+git status
+
+git add .
+
+git commit -m "adicionei uma linha"
+
+git push
+
+
+
+
+
+ 
