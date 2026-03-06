@@ -59,9 +59,31 @@ git checkout staging // muda para a branch staging
 
 git chekout master //muda para a branch master
 
+git pull -> //puxa o codigo atual da branch master para evitar de sobrescrever codigo antigo
+
 git merge staging // manda as alteracoes da staging para a master
 
 git push
+
+git checkout -b sistema-de-login master
+
+git branch
+
+git add .
+
+git status
+
+git commit -m "criado sistema-de-login"
+
+git checkout master
+
+git pull
+
+git merge sistema-de-login
+
+git push
+
+
 
 
 
