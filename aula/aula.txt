@@ -1,0 +1,12 @@
+//para criar um repositorio
+//entrar na pasta escolhida
+//botao direito
+//git bash here
+
+//dentro da pasta
+
+git init -> enter
+
+git status -> //para checar se o repositorio está atualizado
+
+git add "nome do arquivo" -> enter //para incluir os arquivos no repositorio
