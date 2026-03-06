@@ -86,6 +86,25 @@ git push
 ===========================
 //explicar o conceito de pull request
 
+git checkout -b sistema-de-login master
+
+git branch
+
+git add .
+
+git status
+
+git commit -m "criado sistema-de-login"
+
+git push
+/* aqui ao invés de ir para a branch master, dar pull, merge e push, voce precisa da autorização de outras
+/* pessoas no github para aprovar a sua modificação
+
+git push --set-upstream origin sistema-de-login
+
+//vá para o git e veja os pull requests e aprove
+
+
 
 
 
